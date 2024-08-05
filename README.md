@@ -141,6 +141,15 @@ to a proficient full stack developer, one commit at a time.
       />
       <br /><strong>npm</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="npm"
+      />
+      <br /><strong>MySql</strong>
+    </td>
     
   </tr>
 </table>

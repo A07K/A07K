@@ -42,7 +42,8 @@ to a proficient full stack developer, one commit at a time.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        src
+="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
         width="48"
         height="48"
         alt="CSS"
@@ -289,7 +290,7 @@ to a proficient full stack developer, one commit at a time.
     <td width='50%'>
       <h2 align='center'>Rock Paper Scissors</h2>
       <div align='center'>  
-        <a href='https://a07k.github.io/Project-Admin-Dashboard/'>
+        <a href='https://a07k.github.io/Project-Rock-Paper-Scissors/'>
           <img src='img/rock_paper_game.png' alt='rock_paper'/>
         </a>
         <br>

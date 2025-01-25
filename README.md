@@ -210,6 +210,46 @@ to a proficient full stack developer, one commit at a time.
   </tr>
   <tr>
     <td width='50%'>
+      <h2 align='center'>Project - CV</h2>
+      <div align='center'>  
+        <a href='https://a07k.github.io/project-cv/'>
+          <img src='img/resume1.png' alt='CV'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/A07K/project-cv/tree/main'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://a07k.github.io/project-cv/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, CSS</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Keeper App</h2>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net/default-chronous/'>
+          <img src='img/keeper.png' alt='Keeper'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/A07K/Project-Keeper_Note'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://a07k.github.io/Project-Keeper_Note/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>React, CSS</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
       <h2 align='center'>Weather App</h2>
       <div align='center'>  
         <a href='https://a07k.github.io/Project-Weather_App/'>

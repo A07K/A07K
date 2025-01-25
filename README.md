@@ -172,7 +172,7 @@ to a proficient full stack developer, one commit at a time.
     <td width='50%'>
       <h2 align='center'>Project - CV</h2>
       <div align='center'>  
-        <a href='https://a07k.github.io/project-cv/'>
+        <a href='https://a07k.github.io/project-cv'>
           <img src='img/resume1.png' alt='CV'/>
         </a>
         <br>

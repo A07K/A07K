@@ -216,41 +216,68 @@ to a proficient full stack developer, one commit at a time.
 <table>
   <tr>
     <td width='50%'>
-      <h2 align='center'>Project - CV</h2>
+      <h2 align='center'>Email Template Builder</h2>
       <div align='center'>  
-        <a href='https://a07k.github.io/project-cv'>
-          <img src='img/resume1.png' alt='CV'/>
+        <a href='https://mail-forge.netlify.app/'>
+          <img src='img/email-builder.png' alt='Email'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/A07K/project-cv/tree/main'>
+          <a href='https://github.com/A07K/emailBuilder-client'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://a07k.github.io/project-cv/'>
+          <a href='https://github.com/A07K/emailBuilder-server'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://mail-forge.netlify.app/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, CSS</strong></p>
+        <p><strong>MERN Full Stack</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width='50%'>
+      <h2 align='center'>Global Visualization Dashboard</h2>
+      <div align='center'>  
+        <a href='https://starlit-hummingbird-1e7249.netlify.app/'>
+          <img src='img/global-insights.png' alt='insights'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/A07K/global-data-client'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://starlit-hummingbird-1e7249.netlify.app/'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>ThreeJs, React, Tailwind</strong></p>
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>Keeper App</h2>
+      <h2 align='center'>Multi Search Engine App</h2>
       <div align='center'>  
-        <a href='https://chronous.midstem.net/default-chronous/'>
-          <img src='img/keeper.png' alt='Keeper'/>
+        <a href='https://frabjous-longma-66cd7b.netlify.app/'>
+          <img src='img/multiple-search.png' alt='Keeper'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/A07K/Project-Keeper_Note'>
+          <a href='https://github.com/A07K/search-engine-server'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://a07k.github.io/Project-Keeper_Note/'>
+          <a href='https://github.com/A07K/search-engine-client'>
+            <img src="icons/repo.svg"/>
+          </a>
+          <a href='https://frabjous-longma-66cd7b.netlify.app/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, CSS</strong></p>
+        <p><strong>MongoDb, Third Party APIs</strong></p>
       </div>
     </td>
   </tr>

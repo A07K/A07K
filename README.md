@@ -15,6 +15,9 @@ to a proficient full stack developer, one commit at a time.
 <br/>
 <a href="mailto:kushwaha07adity@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/a07k"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="Aditya_Kushwaha_9326696796.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge" alt="Resume" style="height: 25px; background: white; padding: 2px; border-radius: 5px;">
+</a>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 

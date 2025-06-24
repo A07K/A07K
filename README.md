@@ -7,8 +7,6 @@ My focus is on crafting seamless user experiences through React,
 while building robust backends with Express and MongoDB.
 As a frontend enthusiast, I'm passionate about creating
 intuitive and visually appealing interfaces that users love.
-Currently, I'm channeling my skills into an e-commerce project,
-learning and growing with every line of code I write.
 Join me on this exciting journey as I transform from a newcomer
 to a proficient full stack developer, one commit at a time.
 </div>
